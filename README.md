@@ -1,4 +1,4 @@
-![Dioxus_WEB_UI](https://github.com/AzizEmir/Dioxus_web_ui/assets/101357256/e279d09c-2ed9-4538-9725-48acee54fcd5)
+![Dioxus_WEB_UI](https://github.com/AzizEmir/Dioxus-web-ui/assets/101357256/c75e411a-787a-43b8-855a-1f0a59c5dca0)
 
 # Install dependency
 ```bash
@@ -10,4 +10,4 @@ dx serve --hot-reload
 # GOAL
 ### Write backend with the fastest framework
 
-[![image](https://github.com/AzizEmir/Dioxus_web_ui/assets/101357256/f3a4fae0-e4f6-433c-ac43-17757fbe6cb7)](https://www.techempower.com/benchmarks/#hw=ph&test=query&section=data-r22)
+[![image](https://github.com/AzizEmir/Dioxus-web-ui/assets/101357256/3b7b4c23-4166-4894-a79d-54ddd0289008)](https://www.techempower.com/benchmarks/#hw=ph&test=query&section=data-r22)
