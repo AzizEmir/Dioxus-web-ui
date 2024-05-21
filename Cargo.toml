@@ -1,0 +1,20 @@
+[package]
+name = "dioxus-web-1"
+version = "0.1.0"
+authors = ["Aziz Emir <azizemir@tutanota.com>"]
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+dioxus = { version = "0.5", features = ["web", "router"] }
+
+# Debug
+tracing = "0.1.40"
+dioxus-logger = "0.5.0"
+
+# ORM
+#diesel = { version = "2.1.0", features = ["postgres"] }
+#dotenvy = "0.15"
+
+# mysql_async = "0.34.1"
